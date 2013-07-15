@@ -16,3 +16,6 @@ sudo apt-get install algol68g bash beef boo clisp clojure coffeescript \
   swi-prolog tcl8.5 ucblogo valac
 
 # ruby I had already installed so I don't know what you need to do there; ruby has been a pain for me in the past to get the right version set up.
+
+# I also had to follow the instrucions here to ensure that I could run the "go run" command.
+# http://golang.org/doc/install#environment
