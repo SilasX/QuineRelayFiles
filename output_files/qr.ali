@@ -3,7 +3,7 @@ M P W=b
 P SS ZX
 R nnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-U qr%b			qr.adb			2abd1c7e NE OO SU IU
+U qr%b			qr.adb			34911a13 NE OO SU IU
 W ada%s			ada.ads			ada.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
 
@@ -18,7 +18,7 @@ D a-textio.ads		20090409232307 fe8af46e
 D a-unccon.ads		20070406091342 51e09df2
 D interfac.ads		20090409232307 a69cad5c
 D i-cstrea.ads		20090409232307 e1e064a9
-D qr.adb		20130716003033 d437e810
+D qr.adb		20130716092612 ca1bee7d
 D system.ads		20110917192145 df55302f
 D s-crtl.ads		20090409232307 997234a1
 D s-exctab.ads		20090409232307 5c1c61ae
@@ -42,5 +42,5 @@ X 8 a-textio.ads
 48K13*Text_IO 506e16 12|1w10 1r44
 263U14*Put_Line 12|1r52
 X 12 qr.adb
-1U28*QR 1b28 1l18733 1t18735
+1U28*QR 1b28 1l18159 1t18161
 
