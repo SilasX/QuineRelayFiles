@@ -6,7 +6,7 @@ I also
 
 ## Additional execution information
 
-I ran this on Linux Mint 12.  Here are the steps beyond those shown in the link above that I had to follow to get this working.
+I ran this on Linux Mint 12.  Here are the steps beyond those shown in the link above that I had to follow to get this working.  They are reflected in my `generate_quine_relay.sh` file, which comments out the lines that didn't work for me in User:Mame's README, and adds the lines I ended up using to get it to work.
 
 ### Capitalization issues ###
 
@@ -55,3 +55,7 @@ Then go to the directory you downloaded it to and run these commands:
     sudo make install
 
 That should leave you with `ick` on your path and ready to use for that part of it.
+
+### Node.js ###
+
+After installing node.js via `apt-get install`, I was set up to run it with the `node` command rather than `nodejs`.
