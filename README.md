@@ -2,7 +2,9 @@ This is a repo of the intermediate files from running User massive quine relay a
 
 https://github.com/mame/quine-relay
 
-I also 
+## Apology to original author ##
+
+I started this repo just to show what the intermediate files look like, but ended up having to add several files and notes, to the point where this would have made a ton more sense to fork if I had known what it would involve.  I will probably fork and re-upload these.
 
 ## Additional execution information
 
