@@ -8,6 +8,22 @@ I also
 
 I ran this on Linux Mint 12.  Here are the steps beyond those shown in the link above that I had to follow to get this working.
 
+### Capitalization issues ###
+
+I ended up having to change the whitespace.rb and gnatmake lines in the generation code from 
+
+    ruby whitespace.rb QR.ws > QR.adb
+    ...
+    gnatmake QR.adb && ./QR > QR.a68
+
+to
+
+    ruby whitespace.rb QR.ws > qr.adb
+    ...
+    gnatmake qr.adb && ./qr > QR.a68
+
+in order to get it to work.
+
 ### Ruby ###
 
 I was fortunate enough to already have 1.9.3 installed and set to run from the `ruby` command.  Good luck.
